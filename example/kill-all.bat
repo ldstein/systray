@@ -1,0 +1,1 @@
+ taskkill /IM "example.exe" /F
